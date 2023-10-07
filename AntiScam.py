@@ -34,3 +34,6 @@ async def AntiScam(message, bot, whitelist, muted_role, verified_role, logs_chan
         channel = bot.get_channel(logs_channel)
         await channel.send(f'USUARIO MUTEADO: {message_content}')
     await bot.process_commands(message)
+# hola como estamos jijij 
+
+# esto es un easter egg
